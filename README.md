@@ -1,2 +1,2 @@
 # 2dois
-primeiro comitt se rolar
+primeiro commit se rolar
